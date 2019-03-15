@@ -1,0 +1,39 @@
+# This is a blocklist to block my smart tv from sending data !
+
+# Global
+xml.opera.com
+itv.ard.de
+
+# Smartclip (Tracking)
+cdn.hbbtv.smartclip.net
+scheduler.hbbtv.smartclip.net
+stats.hbbtv.smartclip.net
+
+# TF1
+hbbtv.tf&.fr
+s.tf1.fr
+
+# Gully
+replay.gulli.fr
+
+# itele
+service.itele.fr
+
+# M6
+hbbtv.m6.fr
+hbbtv.6play.fr
+
+# D8
+hbbtv.d8.tv
+
+# Canal+
+media.canal-plus.com
+media.canal-plus.com.s0.frz.io
+static2.canalplus.fr
+
+# Netflix
+api-global.netflix.com
+nrdp50-appboot.netflix.com
+nrdp51-appboot.netflix.com
+nrdp.nccp.netflix.com
+

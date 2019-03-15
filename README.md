@@ -1,0 +1,4 @@
+blocklist
+=========
+
+Domains to block.
