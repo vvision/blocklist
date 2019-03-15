@@ -1,6 +1,7 @@
 # This is a blocklist to block my smart tv from sending data !
 
 # Global
+deviceconfig-live.youview.tv
 xml.opera.com
 itv.ard.de
 
