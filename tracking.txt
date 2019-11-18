@@ -1,0 +1,7 @@
+# Eularian
+eularian.com
+eularian.fr
+eularian.net
+
+# Criteo
+dnsdelegation.io
